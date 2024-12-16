@@ -1,0 +1,23 @@
+input{
+    width: 100%;
+}
+
+.col-2 pawan{
+    position: relative;
+    right: 1px;
+    padding: 1px 10px;
+}
+
+
+.Kg-button{
+    min-width: 70px;
+    margin-left: 10px;
+}
+
+.row{
+    margin: 10px  5px;
+}
+
+/* p {
+    color: red;
+} */
